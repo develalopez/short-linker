@@ -24,7 +24,7 @@ Este proyecto consiste en la generación de URL's, por lo cual encontrarás la m
 
 >	Necesitas clonar este repositorio y hacer los pasos descritos en la siguiente documentación:  
 >
-> - Link: [Colaboración](https://github.com/develalopez/short-linker/blob/main/instructivos/Colaboracion.md)
+> - Link: [Instalación](https://github.com/develalopez/short-linker/blob/main/instructivos/instalacion.md)
 
 <a name="Consideraciones"></a>
 ## Tener en cuenta ❗
@@ -58,7 +58,7 @@ A continuación encuentras el funcionamiento de nuestra arquitectura
 <a name="metodología"></a>
 ## Metodología de trabajo 
 
-Para trabajar con nosotros necesitas acceso al repositorio y de esta manera poder realizar cambios, adicional a esto ten en cuenta las siguientes recomendaciones: 
+Para trabajar con nosotros necesitas acceso al repositorio y de esta manera poder realizar cambios, adicional a esto ten en cuenta las siguientes recomendaciones: [Colaboración](https://github.com/develalopez/short-linker/blob/main/instructivos/Colaboracion.md)
 
 ## Autores  👨‍🦱 👨‍🦱 👨‍🦱 👨‍🦱 👨‍🦱 🙍‍♀️
   - Brayan Alberto Vargas Quintero. 
