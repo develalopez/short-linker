@@ -41,6 +41,8 @@ El código necesita que:
 <a name="metodología"></a>
 ## Metodología de trabajo 
 
+
+
 <a name="redirección"></a>
 ## Redirección 
 

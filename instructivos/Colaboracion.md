@@ -8,6 +8,8 @@ Ejecuta el siguiente comando en tu consola de comandos
 
     git clone https://github.com/develalopez/short-linker.git
 
+Si aún no cuentas con acceso al repositorio, [envía un correo a Daniel Vela](mailto:de.vela.lopez@gmail.com)
+
 ## ¿Como puedo ejecutar los entornos de desarrollo?
 
     docker compose up
@@ -28,7 +30,7 @@ Tienes que tener en cuenta que por seguridad y praticas DevSecOps nada se va a s
 
       git add .
 
-* Guarda esos cambios en un commit, recuerda que para hacer uso de la función "-S" debes de haber configurado tu firma digital gpg [¿Como hacerlo?](a)
+* Guarda esos cambios en un commit, recuerda que para hacer uso de la función "-S" debes de haber configurado tu firma digital gpg [¿Como hacerlo?](seguridad.md)
   
         git commit -m "tu commit" -S
 
